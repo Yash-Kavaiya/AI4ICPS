@@ -1,55 +1,98 @@
-# IIT Kharagpur AI4ICPS Certificate Programme
 
-## Hands-on Approach to AI for Real-World Applications (HAAI) - Cohort 2
+# TCS iON IIT Kharagpur AI4ICPS Certificate Programme
 
-### Overview
-This online certificate programme is offered by AI4ICPS of IIT Kharagpur in collaboration with TCS iON. It provides a hands-on approach to AI for real-world applications, equipping learners with basic to intermediate proficiency in AI and ML.
+## Introduction
+The IIT Kharagpur AI4ICPS Certificate Programme is an online course offered by the AI4ICPS of IIT Kharagpur in collaboration with TCS iON. This program aims to equip learners with fundamental to intermediate proficiency in Artificial Intelligence (AI) and Machine Learning (ML). 
 
-### Key Details
-- **Start Date**: July 13, 2024
-- **End Date**: October 19, 2024 (tentative)
-- **Format**: Online (Live Sessions + Hands-on)
+## Programme Details
+- **Hands-on approach to AI for real-world applications**
+- **Fee**: ₹ 5,999/- (Inclusive of all applicable taxes)
+- **Registration Deadline**: 7th July 2024
+- **Cohort 2 Commencement**: Saturday, 13th July 2024
+- **Cohort 2 Completion**: 3rd week of October (Tentative)
+- **Learning Format**: Online (Live Sessions + Hands-on)
 - **Language**: English
-- **Price**: ₹5,999/- (Inclusive of all applicable taxes)
-- **Registration Deadline**: July 7, 2024
 
-### Programme Highlights
-- 100 hours of overall experiential learning
-- Live lectures from IIT Kharagpur faculty
-- Hands-on sessions with industry-standard tools
-- Industry projects and use cases
-- Live doubt clearing sessions
-- Certificate of Merit for top 10% performers
-- Interaction with industry experts from TCS & others
-- Access to public datasets, tutorials, and coding assignments
-- Resume preparation guidance
+## About the Programme
+This Online Certificate Programme, facilitated by AI4ICPS, an AI and ML Technology Innovation Hub at IIT Kharagpur, is designed for learners to gain industry-relevant AI skills through live lectures and practical tools. Successful learners will receive certificates and up to three interview opportunities.
+
+### Key Highlights
+- **100 hours of experiential learning**
+- **Live lectures** from IIT Kharagpur faculty
+- **Modular quizzes, tips and tricks, assignments**
+- **Discussion room community**
+- **Industry projects and use cases**
+- **Live doubt clearing sessions** with experts
+- **Certificate of Merit** for top 10% learners
+- **Interaction with industry experts** from TCS & others
+- **Access to public datasets, tutorials, and coding assignments**
+- **Industry preparedness** guidance from AI4ICPS Hub
+- **Resume preparation guidance** by AI4ICPS Hub
 
 ### Learning Outcomes
-- Programming and hands-on expertise in AI and ML
-- Mathematical fundamentals of AI
-- Exposure to latest developments like Autonomous cars and Generative AI
-- Opportunity for 3 corporate interviews (for eligible candidates)
+- Proficiency in programming and hands-on AI/ML
+- Understanding of mathematical fundamentals of AI
+- Exposure to the latest developments in AI, including autonomous vehicles and Generative AI
+- Eligibility to appear for three corporate interviews
 
-### Tools and Technologies Covered
-Python, Google Colaboratory, Jupyter Notebook, PyTorch, Keras, TensorFlow, NumPy, Pandas, scikit-learn
+### What You Will Learn
+- Python
+- Google Colaboratory
+- Jupyter Notebook
+- PyTorch
+- Keras
+- TensorFlow
+- NumPy
+- Pandas
+- scikit-learn
 
 ### Potential Job Roles
-Machine Learning Engineer, Deep Learning Engineer, ML Architect, AI Engineer, AI Architect, GPT3 Developer, GenAI Developer, Data Scientist
+- Machine Learning Engineer
+- Deep Learning Engineer
+- ML Architect
+- AI Engineer
+- AI Architect
+- GPT3 Developer
+- GenAI Developer
+- Data Scientist
 
-### Target Audience
-- Freshers/individuals pursuing Bachelor's/Master's degree aspiring for an AI career
-- Individuals with basic programming and advanced mathematical knowledge looking to build their career in IT industry
+### Who Should Apply
+- Freshers or individuals pursuing Bachelor's/Master's degrees aspiring for a career in AI
+- Individuals with basic programming and advanced mathematical knowledge aiming to build a career in the IT industry
 
-### Programme Structure
-The programme consists of 14 weeks of sessions, covering topics from Introduction to AI to Industry Use Cases and Career Preparation. Each week includes live lectures, hands-on labs, and Q&A sessions.
+### Programme Pedagogy
+- **Expert-led live sessions**: Training by IIT KGP professors and industry experts
+- **Recorded session videos**: Learn anytime, anywhere
+- **Industry use cases**: Real-world experience through use cases
+- **Peer networking and expert connect**: Interactive learning network
+- **Hands-on sessions**: Practical learning with real-world content and datasets
+- **Live doubt-solving sessions**: Real-time query resolution by experts
+- **Digital certificate**: Co-branded certificate upon successful completion
+- **Dedicated learning management team**: Continuous guidance and updates
 
-### Certification
-Learners can receive one of three certificates based on their performance:
-1. Certificate of Participation
-2. Certificate of Completion
-3. Certificate of Merit (for top 10% performers, awarded at the IIT campus)
+## Programme Curriculum
+The course syllabus includes live lectures, recorded session videos, and community-based digital classrooms. For a comprehensive schedule, download the detailed PDF.
 
-For more information, visit: [TCSiON IIT KGP Certificate Program](https://www.tcsion.com/hub/iit-kgp-certificate-program/hands-on-approach-to-ai/)
+[Download Now]
+
+## Digital Certificate
+Learners will receive a co-branded digital certificate upon successful completion of the programme.
+
+### Contact Us
+- **Request a Callback**
+- **Email**: info.tcsionhub@tcs.com
+- **Contact Centre Number**: 1800 266 6282
+
+For more details, please refer to our FAQs section.
+
+## About TCS iON
+TCS iON provides educational programs across various domains including Artificial Intelligence, Software Development, Sales & BD, and more. Our offerings cater to different educational levels from school education to vocational and higher education.
+
+### Connect With Us
+- **Location**: Olympus A, Hiranandani Estate, Ghodbunder Road, Patlipada, Thane West - 400607, Maharashtra
+- **Phone**: 1800 266 6282
+- **Follow Us**: Facebook, Twitter, LinkedIn, Instagram, YouTube
+
 
 # IIT Kharagpur AI4ICPS Certificate Programme
 
