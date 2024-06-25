@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@300;400;600;700&display=swap');
+
 :root {
   --ifm-color-primary: #0054a6;
   --ifm-color-primary-dark: #004c95;
@@ -8,8 +10,11 @@
   --ifm-color-primary-lightest: #006dd8;
   --ifm-background-color: #ffffff;
   --ifm-font-color-base: #333333;
-  --ifm-code-font-size: 95%;
+  --ifm-code-font-size: 90%;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+  --ifm-font-size-base: 14px;
+  --ifm-font-size-small: 12px;
+  --ifm-font-size-smaller: 11px;
 }
 
 [data-theme='dark'] {
@@ -26,20 +31,29 @@
 }
 
 body {
-  font-family: Arial, sans-serif;
+  font-family: 'Nunito', sans-serif;
+  font-size: var(--ifm-font-size-base);
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Nunito', sans-serif;
+  font-weight: 600;
 }
 
 .navbar {
   background-color: #ffffff;
   box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.1);
+  font-size: var(--ifm-font-size-small);
 }
 
 .navbar__brand {
   color: var(--ifm-color-primary);
+  font-weight: 700;
 }
 
 .button {
   border-radius: 4px;
+  font-size: var(--ifm-font-size-small);
 }
 
 .button--primary {
@@ -50,14 +64,48 @@ body {
 .card {
   border-radius: 8px;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  font-size: var(--ifm-font-size-small);
 }
-
 .footer {
   background-color: #f5f5f5;
-  color: #666666;
+  color: #333333;
+  font-size: var(--ifm-font-size-smaller);
 }
 
 [data-theme='dark'] .footer {
   background-color: #2c2e33;
-  color: #a0a0a0;
+  color: #e0e0e0;
+}
+
+.footer__link-item {
+  color: #0054a6;
+}
+
+[data-theme='dark'] .footer__link-item {
+  color: #4a90e2;
+}
+
+.footer__copyright {
+  color: #666666;
+}
+
+[data-theme='dark'] .footer__copyright {
+  color: #b0b0b0;
+}
+
+/* Additional styles for better readability */
+p {
+  line-height: 1.6;
+}
+
+.navbar__item {
+  font-size: var(--ifm-font-size-small);
+}
+
+.table {
+  font-size: var(--ifm-font-size-small);
+}
+
+code {
+  font-size: var(--ifm-code-font-size);
 }
